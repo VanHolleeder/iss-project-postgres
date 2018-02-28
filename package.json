@@ -1,0 +1,20 @@
+{
+  "name": "iss-project-postgresql",
+  "version": "1.0.0",
+  "description": "setup postgresql with Azure Brigade",
+  "main": "setup-db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "brigade",
+    "node",
+    "nodejs",
+    "postgres"
+  ],
+  "author": "jbaudin",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^7.4.1"
+  }
+}
