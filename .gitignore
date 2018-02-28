@@ -1,5 +1,7 @@
 node_modules/
 kubernetes.yaml
+values.yaml
+Chart.yaml
 *.log
 *#
 *~
